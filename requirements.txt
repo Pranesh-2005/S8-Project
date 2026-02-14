@@ -1,0 +1,9 @@
+gradio
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
+pypdf
+torch
+transformers
+numpy
